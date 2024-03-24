@@ -48,7 +48,7 @@
 <hr/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?james9726=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?SeungJun=anuraghazra&layout=compact)
 
 
 
