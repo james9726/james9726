@@ -48,7 +48,7 @@
 <hr/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=james9726&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
