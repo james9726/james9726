@@ -51,13 +51,12 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="mailto:james9726@naver.com">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/james9726@naver.com-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
   <a href="mailto:james972620@gmail.com">
     <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/james972620@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
-  <a href="010-3934-5369">
   
 </div>
 
